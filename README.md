@@ -1,9 +1,6 @@
 # CODSOFT_LEVEL_1_TASK_3
-React Calculator
-This is a simple calculator web application built using React.
 
-Demo
-You can try out the calculator live here.
+This is a simple calculator web application built using React.
 
 Features
 Basic arithmetic operations: addition, subtraction, multiplication, and division.
