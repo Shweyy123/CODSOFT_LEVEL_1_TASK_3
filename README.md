@@ -2,11 +2,7 @@
 
 This is a simple calculator web application built using React.
 
-Features
-Basic arithmetic operations: addition, subtraction, multiplication, and division.
-Clear button to reset the input.
-Responsive design for various screen sizes.
-Installation
+Installation:
 To run this project locally, follow these steps:
 
 1. Clone the repository:
